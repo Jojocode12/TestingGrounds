@@ -4,7 +4,7 @@
 #include "AIController.h"
 #include "Casts.h"
 #include "TP_ThirdPerson/TP_ThirdPerson.h"
-#include "Public/PatrolRoute.h"
+#include "NPC/PatrolRoute.h"
 #include "BehaviorTree/BTTaskNode.h"
 #include "BehaviorTree/BlackboardComponent.h"
 
